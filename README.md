@@ -217,7 +217,9 @@ I would like to express my gratitude to my teachers and everyone who supported m
 
 ---
 
-**Project Name:** BIT-Web-Project  
+**Project Name:** BIT-Web-Project 
+**Student Name:** Umesh Shrestha
+**Semester:** 4th semester
 **Institution:** BMC (Bhaktapur Multiple Campus), Nepal  
 **Project Type:** Academic / Learning Project  
 **Technologies:** HTML5, CSS3, JavaScript
