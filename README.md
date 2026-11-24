@@ -2,7 +2,7 @@
 
 ## 1. Introduction
 
-This is my basic web development project, created as part of my learning as a student at BMC (Birat Multiple Campus), Nepal. The project is a simple, responsive website made using HTML, CSS, and JavaScript.
+This is my basic web development project, created as part of my learning as a student at BMC (Bhaktapur Multiple Campus), Nepal. The project is a simple, responsive website made using HTML, CSS, and JavaScript.
 
 The main purpose of this project is to understand how a website is designed and developed. While working on it, I practised creating web pages, adding navigation between pages, designing layouts with CSS, and adding basic interactive features with JavaScript.
 
@@ -218,6 +218,6 @@ I would like to express my gratitude to my teachers and everyone who supported m
 ---
 
 **Project Name:** BIT-Web-Project  
-**Institution:** BMC (Birat Multiple Campus), Nepal  
+**Institution:** BMC (Bhaktapur Multiple Campus), Nepal  
 **Project Type:** Academic / Learning Project  
 **Technologies:** HTML5, CSS3, JavaScript
